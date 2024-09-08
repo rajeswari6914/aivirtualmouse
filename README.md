@@ -1,0 +1,2 @@
+This project leverages computer vision and machine learning to create a virtual mouse that allows users to control their computer using hand gestures. Utilizing a webcam, the system detects hand movements and translates them into mouse actions, such as clicking, dragging, and moving the cursor. Built with Python and OpenCV, this AI-powered virtual mouse offers a touchless and intuitive way to interact with a computer, enhancing accessibility and user experience.
+

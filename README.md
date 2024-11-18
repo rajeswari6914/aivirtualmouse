@@ -30,7 +30,7 @@ To run this project, you will need the following Python libraries:
 First, clone the repository to your local machine using the following command:
 ```sh
 git clone https://github.com/rajeswari6914/aivirtualmouse.git
-cd AI-Virtual-Mouse
+cd aivirtualmouse
 ```
 ### 2. Install dependencies:
 To install all the required Python libraries, run:
